@@ -9,7 +9,16 @@ EXPLORATORY ANALYSIS ABOUT THE RISE OF NATURAL DISASTERS
 
 3. Since the analysis covers a long period filtering for the 21st century & examining on the pre 21st century disasters ,it enables us to identifyt he changes or shifts in disaster occurrences over an extended period, which could provide insights into long-term trends or potential underlying factors.
 
-4. 
+4. The Analysis was aimed in understanding the distribution ,trends & patterns of each disaster type allowing for a more granular understanding of their occurrences and potential impacts.
+
+5. The Analysis focus on quantifying the frequency and severity of different disaster types by calculating measures such as the total number of disasters, average number of disasters per year, and identifying the top years or entities with the highest number of disasters. This analysis can help rank and compare the relative magnitude and impact of various disaster types.
+
+6. The queries aim to analyze disaster trends over time, including identifying years or decades with the highest number of disasters, both overall and for specific disaster types. Calculating the cumulative number of disasters, particularly for earthquakes, over time allows for understanding long-term trends and patterns.
+
+
+
+
+   
 
 
 
